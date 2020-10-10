@@ -1,0 +1,7 @@
+{
+  "name": "mongodb-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vitorSiqueiraLobao/mongo-sample.git",
+  "license": "MIT"
+}
